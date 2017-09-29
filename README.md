@@ -7,5 +7,5 @@ Shell Script to update kernel.
 ## Usage
 
 ```
-$ bash kernel-uploader.sh
+$ bash kernel-updater.sh
 ```
