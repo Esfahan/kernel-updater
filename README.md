@@ -2,7 +2,7 @@
 Shell Script to update kernel.
 
 ## System Requirements
-- CentOS7
+- CentOS 7.x
 
 ## Usage
 ### Updating
